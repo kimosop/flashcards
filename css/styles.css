@@ -1,0 +1,33 @@
+body{
+  font-size: 24px;
+  font-family:sans-serif;
+}
+.javascript-hidden #js {
+  cursor: pointer;
+  color: black;
+  }
+
+.javascript-hidden #js:hover {
+  text-decoration: underline;
+  }
+
+.javascript-showing {
+    display: none;
+  }
+
+.well{
+  background-color:red;
+}
+
+.operators-showing {
+  display: none;
+}
+
+.operators-hidden #ops {
+  cursor: pointer;
+  color: black;
+  }
+
+.operators-hidden #ops:hover {
+  text-decoration: underline;
+  }
